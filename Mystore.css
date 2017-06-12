@@ -1,0 +1,279 @@
+header{
+	background: url(./img2/header2.jpg) center 0px;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+	padding: 5px 0 0 5px;
+	margin: 0 0 2.0em;
+	border-bottom: 5px solid white;
+	background-position: 50% 60%;
+}
+
+html{
+	background-color: black;
+}
+
+nav{
+	color: transparent;
+	direction; float-right;
+}
+
+nav ul{
+	float: right
+	padding: 15px;
+	position: relative;
+	top: -20px;
+	left: 1050px;
+	margin-left: 0;
+	font-size: 20px;
+	/*border: 2px solid gold;*/
+	background-color: #340034;
+	width: 301px;
+	border-radius: 5px;
+	height: 35px;
+}
+
+.navli{
+	display: inline-block;
+	margin: 0 5px 0 0;
+	position: relative;
+	right: 20px;
+	top: 5px;
+}
+
+.mybag{
+	display: inline-block;
+	margin: 0 5px 0 0;
+	position: relative;
+	right: 14px;
+}
+
+#button1{
+	height: 22px;
+	border-radius: 5px;
+	background-color: #DDA0DD;
+}
+
+#button1:hover{
+	background-color: #D8BFD8;
+}
+
+nav a:visited{
+	color: white;
+}
+
+nav a:hover{
+	color: white;
+}
+
+.searchb{
+	position: relative;
+	right: 9px;
+	margin: 0 5px 0 0;
+	display: inline-block;
+}
+
+.title{
+	color: gold;
+	margin: 0 0 0 90px;
+	position: relative;
+	font-size: 100px;
+	top: 60px;
+	font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Indie Flower', cursive;
+}
+
+.title2{
+	color: #E066FF;
+	margin: 0 0 0 200px;
+	padding: 80px 0 100px 10px;
+	position: relative;
+	top: -30px;
+	font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    left: 25px;
+}
+
+#bar{
+	position: relative;
+	background-repeat: no-repeat;
+	width: 390px;
+	/*border: 3px solid black;*/
+	top: -250px;
+	left: 990px;
+	background-size: 400px;
+	background-position: bottom;
+	color: white;
+	font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}	
+	
+#bar1{
+	position: fixed;
+	left: 120px;
+	font-size: 300px;
+	background;
+}
+
+body{
+	margin: 0 0 0 0;
+	background-image: url(./img2/background6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	overflow: auto; 
+	overflow-x: hidden;
+}
+
+.squares{
+	border: 2px solid black;
+}
+
+#rectangle{
+	border: 2px solid black;
+}
+
+.square1{
+	border: 5px solid white;
+	width: 870px;
+	height: 190px;
+	background-image: url(./img2/symbol2.png);
+	background-repeat: no-repeat;
+	background-size:  cover;
+	background-position: middle-bottom;
+	color: white;
+}
+
+.square2{
+	border: 5px solid white;
+	width: 300px;
+	height: 580px;
+	position: relative;
+	top: 10px;
+	background-image: url(./img2/b3.jpg);
+	background-size: ;
+}
+
+.square3{
+	border: 5px solid white;
+	width: 549px;
+	height: 371px;
+	position: relative;
+	left: 321px;
+	top: -580px;
+	background-image: url(./img2/box2.jpg);
+	background-size: cover;
+	overflow: hidden;
+}
+
+.square4{
+	border: 5px solid white;
+	width: 300px;
+	height: 581px;
+	position: relative;
+	left: 890px;
+	top: -1171px;
+	background-image: url(./img2/owl2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 40%;
+}
+
+.square6{
+	border: 5px solid white;
+	position: relative;
+	top: -1162px;
+	width: 869px;
+	height: 190px;
+	left: 321px;
+	background-image: url(./img2/p2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 40% 20%;
+}
+
+.body{
+	width: 1200px;
+	height: 800px;
+	position: relative;
+	top: -150px;
+	margin: 0 0 0 120px;
+	padding: 9px
+	background-color: transparent;
+	font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Indie Flower', cursive;
+	color: gold;
+	border-radius: 10px;
+	font-size: 18px;
+}
+
+.body a:hover{
+	color: transparent;
+}
+
+.body a{
+	color: transparent;
+}
+
+footer{
+	width: 100vw;
+	height: 100px;
+	background-image: url(./img2/f1.jpg);
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: 100vw;
+	background-position: 50% 50%;
+	border-right:  3px solid white;
+	border-top:  3px solid white;
+	border-bottom:  3px solid white;
+	color: white;
+	font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Indie Flower', cursive;
+}
+
+a{
+	color: white;
+}
+
+.spells{
+	position: relative;
+	top: -20px;
+}
+
+footer ul{
+	position: relative;
+	bottom: 40px;
+	left: 930px;
+}
+
+footer li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.color:hover{
+	color: #FFFACD;
+}
+
+.color{
+	color: gold;
+	position: relative;
+	left: 10px;
+}
+
+.ftext{
+	position: relative;
+	left: 50px;
+}
+
+.color1{
+	color: gold;
+	position: relative;
+	left: 10px;
+	font-size: 32px;
+}
+
+.color1:hover{
+	color: #FFFACD;
+}
+
